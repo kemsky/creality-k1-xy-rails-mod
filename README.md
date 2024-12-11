@@ -38,6 +38,18 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Partially this work is based on [creality-k1-max-xy-rails-mod](https://github.com/kemsky/creality-k1-max-xy-rails-mod) and uses some CAD files made by [Henlor](https://www.printables.com/@Henlor).
 
+## Photos
+
+![1](/images/assembled/IMG_20241211_051136.jpg)
+
+![2](/images/assembled/IMG_20241211_051154.jpg)
+
+![3](/images/assembled/IMG_20241211_051206.jpg)
+
+![4](/images/assembled/IMG_20241211_051212.jpg)
+
+![5](/images/assembled/IMG_20241211_051230.jpg)
+
 
 ### BOM, Assembly, etc.
 
