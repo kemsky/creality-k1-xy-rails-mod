@@ -1,7 +1,7 @@
 """
-This script automatically exports STL and STEP files from FreCAD project files.
+This script automatically exports STL and STEP files from FreeCAD project files.
 
-Invoke directly: `exec: /snap/bin/freecad ./export.py`,
+Invoke directly (Ubuntu snap installation): `exec: /snap/bin/freecad ./export.py`,
 Or use `./export.sh` from parent dir.
 """
 
