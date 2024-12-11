@@ -132,6 +132,7 @@ def export(file: str, object_name: str, export_types: list[str]):
         FreeCAD.Console.PrintMessage('Close file: "' + open_documents[key].Name + '"\n')
         FreeCAD.closeDocument(open_documents[key].Name)
 
+    FreeCAD.Console.PrintMessage('\n\n')
 
 
 for document in documents:
