@@ -8,6 +8,8 @@ This mod fixes K1 quality issues, namely excessive ringing/echo, makes printer q
 
 **This mod does not change print area.**
 
+Should be compatible with regular K1 and K1C (not tested, likely heat sink needs to be replaced).
+
 This mod uses two MGN12 rails with MGN12H carriages for Y and one MGN9 rail with MGN9H carriage for X axis.
 
 It uses POWGE 7.7 mm belt and corresponding idler pulleys
@@ -20,7 +22,7 @@ I replaced stock motor pulleys with 20T pulleys for 15mm belt (`rotation_distanc
 
 You can install non-stock motors e.g. Leadshine 42cm06 1.8 or LDO-42STH48-1684MAC 0.9 (requires `full_steps_per_rotation: 400`). There are separate motor mounts.
 
-X rail has max length of 331 mm, 320 mm between far left and far right holes.
+X rail has max length of 331 mm, 320 mm between far left and far right holes. X axis requires 15x15x2 mm aluminium tube.
 
 Y rails have max length of 314 mm (safe 310 mm), 300 mm between far left and far right holes.
 
