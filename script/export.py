@@ -16,15 +16,17 @@ step_timestamp_pattern = re.compile(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}")
 script_path: str = os.path.abspath(__file__)
 print("Current script path: " + script_path)
 
-source_dir: str = os.path.dirname(os.path.dirname(script_path))
+root_dir: str = os.path.dirname(os.path.dirname(script_path)) 
+
+source_dir: str = os.path.join(root_dir, "src")
 print("FreeCAD sources path: " + source_dir)
 
-stl_path: str = os.path.join(source_dir, "stl")
-print("STL output path: " + source_dir)
+stl_path: str = os.path.join(root_dir, "stl")
+print("STL output path: " + stl_path)
 os.makedirs(stl_path, exist_ok = True)
 
-step_path: str = os.path.join(source_dir, "step")
-print("STEP output path: " + source_dir)
+step_path: str = os.path.join(root_dir, "step")
+print("STEP output path: " + step_path)
 os.makedirs(step_path, exist_ok = True)
 
 # The list of FreeCAD files to be exported,
