@@ -2,7 +2,7 @@
 
 ## Description
 
-This mod fixes K1 quality issues, namely excessive ringing/echo, makes printer quiet.
+This mod fixes K1 issues, namely excessive ringing/echo, unstable print quality, also makes printer quiet.
 
 **You must use camera mount from this mod, it is 8mm lower than original.**
 
