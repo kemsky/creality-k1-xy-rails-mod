@@ -8,7 +8,8 @@ Or use `./export.sh` from parent dir.
 import FreeCAD
 import MeshPart
 import Import
-import Mesh, Part
+import Mesh
+import Part
 import os, re
 
 step_timestamp_pattern = re.compile(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}")
@@ -125,9 +126,11 @@ def export(file: str, object_name: str, export_types: list[str]):
         else:
             raise Exception(f"Unknown export_type: {export_type}")
 
-    FreeCAD.Console.PrintMessage('Close file: "' + document_path + '"\n')
+    open_documents = FreeCAD.listDocuments()
 
-    FreeCAD.closeDocument(doc.Name)
+    for key in open_documents:
+        FreeCAD.Console.PrintMessage('Close file: "' + open_documents[key].Name + '"\n')
+        FreeCAD.closeDocument(open_documents[key].Name)
 
 
 
@@ -138,7 +141,6 @@ for document in documents:
         FreeCAD.Console.PrintMessage('╔═════════════╗\n')
         FreeCAD.Console.PrintMessage('║░░░░ERROR░░░░║\n')
         FreeCAD.Console.PrintMessage('╚═════════════╝\n\n')
-
         quit(0)
 
 FreeCAD.Console.PrintMessage('╔═════════════╗\n')
