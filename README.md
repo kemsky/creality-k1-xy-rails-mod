@@ -46,6 +46,10 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Partially this work is based on [creality-k1-max-xy-rails-mod](https://github.com/kemsky/creality-k1-max-xy-rails-mod) and uses some CAD files made by [Henlor](https://www.printables.com/@Henlor).
 
+## Published
+
+https://www.printables.com/model/1109686-creality-k1-xy-linear-rails-mod
+
 ## Photos
 
 <details>
