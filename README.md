@@ -44,26 +44,26 @@ Partially this work is based on [creality-k1-max-xy-rails-mod](https://github.co
 
 ## Photos
 
-![Photo 1](/images/assembled/IMG_20241211_051136.jpg)
+<img title="Photo 1" alt="Photo 1" src="images/assembled/IMG_20241211_051136.jpg">
 
 <details>
-<summary>Photo 2</summary>
-![Photo 2](/images/assembled/IMG_20241211_051154.jpg)
+    <summary>Photo 2</summary>
+    <img title="Photo 2" alt="Photo 2" src="images/assembled/IMG_20241211_051154.jpg">
 </details>
 
 <details>
-<summary>Photo 3</summary>
-![Photo 3](/images/assembled/IMG_20241211_051206.jpg)
+    <summary>Photo 3</summary>
+    <img title="Photo 3" alt="Photo 3" src="images/assembled/IMG_20241211_051206.jpg">
 </details>
 
 <details>
-<summary>Photo 4</summary>
-![Photo 4](/images/assembled/IMG_20241211_051212.jpg)
+    <summary>Photo 4</summary>
+    <img title="Photo 4" alt="Photo 4" src="images/assembled/IMG_20241211_051212.jpg">
 </details>
 
 <details>
-<summary>Photo 5</summary>
-![Photo 5](/images/assembled/IMG_20241211_051230.jpg)
+    <summary>Photo 5</summary>
+    <img title="Photo 5" alt="Photo 5" src="images/assembled/IMG_20241211_051230.jpg">
 </details>
 
 ## BOM, Assembly, etc.
