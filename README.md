@@ -2,6 +2,8 @@
 
 ## Description
 
+<img title="CAD" alt="CAD" src="images/assembled/cad_assembly.png">
+
 This mod fixes `K1` issues namely excessive ringing/echo, unstable print quality, frequent maintenance, also it makes printer quiet.
 
 It should be compatible with regular `K1` (tested), `K1C` and `K1 SE` (not tested, likely heat sink needs to be replaced with heatsink from regular `K1`).
@@ -44,7 +46,10 @@ Partially this work is based on [creality-k1-max-xy-rails-mod](https://github.co
 
 ## Photos
 
-<img title="Photo 1" alt="Photo 1" src="images/assembled/IMG_20241211_051136.jpg">
+<details>
+    <summary>Photo 1</summary>
+    <img title="Photo 1" alt="Photo 1" src="images/assembled/IMG_20241211_051136.jpg">
+</details>
 
 <details>
     <summary>Photo 2</summary>
@@ -68,4 +73,6 @@ Partially this work is based on [creality-k1-max-xy-rails-mod](https://github.co
 
 ## BOM, Assembly, etc.
 
-This is work in progress.
+to be done...
+
+
