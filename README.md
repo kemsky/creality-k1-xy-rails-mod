@@ -44,17 +44,28 @@ Partially this work is based on [creality-k1-max-xy-rails-mod](https://github.co
 
 ## Photos
 
-![1](/images/assembled/IMG_20241211_051136.jpg)
+![Photo 1](/images/assembled/IMG_20241211_051136.jpg)
 
-![2](/images/assembled/IMG_20241211_051154.jpg)
+<details>
+<summary>Photo 2</summary>
+![Photo 2](/images/assembled/IMG_20241211_051154.jpg)
+</details>
 
-![3](/images/assembled/IMG_20241211_051206.jpg)
+<details>
+<summary>Photo 3</summary>
+![Photo 3](/images/assembled/IMG_20241211_051206.jpg)
+</details>
 
-![4](/images/assembled/IMG_20241211_051212.jpg)
+<details>
+<summary>Photo 4</summary>
+![Photo 4](/images/assembled/IMG_20241211_051212.jpg)
+</details>
 
-![5](/images/assembled/IMG_20241211_051230.jpg)
+<details>
+<summary>Photo 5</summary>
+![Photo 5](/images/assembled/IMG_20241211_051230.jpg)
+</details>
 
-
-### BOM, Assembly, etc.
+## BOM, Assembly, etc.
 
 This is work in progress.
