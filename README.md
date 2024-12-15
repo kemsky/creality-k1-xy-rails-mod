@@ -22,6 +22,8 @@ I used 20T motor pulleys for 15 mm belt (`rotation_distance` needs to be adjuste
 
 You can install non-stock motors e.g. `Leadshine 42cm06 1.8` or `LDO-42STH48-1684MAC 0.9` (requires `full_steps_per_rotation: 400`, loud, limited acceleration but potentially better print quality).
 
+This mod uses double diaphragm couplers and `MF95ZZ` bearings.
+
 #### Linear rails
 
 This mod uses two `MGN12` rails with `MGN12H` carriages for Y and one `MGN9` rail with `MGN9H` carriage for X axis.
