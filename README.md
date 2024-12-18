@@ -79,6 +79,38 @@ https://www.printables.com/model/1109686-creality-k1-xy-linear-rails-mod
 
 ## BOM, Assembly, etc.
 
-to be done...
+**! This is work in progress**
+
+## Front Idlers
+
+<!-- ![Front Idler](/images/parts/front_idlers.jpg) -->
+
+### Left
+
+[front_idler_left.stl](/stl/k1_front_idler_left.stl)
+
+| Item                            | Type      | Count |
+|---------------------------------|-----------|-------|
+| DIN 912 Flat Head Cap Screw     | M4 30 mm  | 1     |
+| DIN 7991 Flat Head Cap Screw    | M3 6 mm   | 4     |
+| DIN 912 Socket Head Cap Screw   | M3 16 mm  | 1     |
+| POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 1     |
+| Heat insert                     | M3 5x5 mm | 5     |
+
+### Right
+
+[front_idler_right.stl](/stl/k1_front_idler_right.stl)
+
+| Item                            | Type      | Count |
+|---------------------------------|-----------|-------|
+| DIN 912  Flat Head Cap Screw    | M4 30 mm  | 1     |
+| DIN 7991 Flat Head Cap Screw    | M3 6 mm   | 4     |
+| DIN 912 Socket Head Cap Screw   | M3 16 mm  | 1     |
+| POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 1     |
+| Heat insert                     | M3 5x5 mm | 5     |
+
+## Camera
+
+[camera_8mm_lower.stl](/stl/k1_camera.stl)
 
 
