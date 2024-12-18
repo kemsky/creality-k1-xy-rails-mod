@@ -81,7 +81,10 @@ https://www.printables.com/model/1109686-creality-k1-xy-linear-rails-mod
 
 ### Front Idler Left
 
-![front_idler_left](/images/assembly/k1_front_idler_left_orthographic_axo.png)
+<details>
+    <summary>Preview</summary>
+    <img title="front_idler_left.stl" alt="front_idler_left.stl" src="images/assembly/k1_front_idler_left_orthographic_axo.png">
+</details>
 
 [front_idler_left.stl](/stl/k1_front_idler_left.stl)
 
@@ -95,7 +98,10 @@ https://www.printables.com/model/1109686-creality-k1-xy-linear-rails-mod
 
 ### Front Idler Right
 
-![front_idler_right](/images/assembly/k1_front_idler_right_orthographic_axo.png)
+<details>
+    <summary>Preview</summary>
+    <img title="front_idler_right.stl" alt="front_idler_right.stl" src="images/assembly/k1_front_idler_right_orthographic_axo.png">
+</details>
 
 [front_idler_right.stl](/stl/k1_front_idler_right.stl)
 
@@ -109,7 +115,10 @@ https://www.printables.com/model/1109686-creality-k1-xy-linear-rails-mod
 
 ### Camera
 
-![front_idler_right](/images/assembly/k1_camera_orthographic_axo.png)
+<details>
+    <summary>Preview</summary>
+    <img title="k1_camera.stl" alt="k1_camera.stl" src="images/assembly/k1_camera_orthographic_axo.png">
+</details>
 
 [k1_camera.stl](/stl/k1_camera.stl)
 
