@@ -13,6 +13,10 @@ import Mesh
 import Part
 import os, re
 import traceback
+import sys
+
+print("Commandline args:")
+print(sys.argv)
 
 step_timestamp_pattern = re.compile(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}")
 
@@ -70,21 +74,26 @@ documents :list[str] = [
 ]
 
 # The list of FreeCAD objects to be exported as screenshots
-screenshots :list[str] = [
-    "k1_front_idler_left",
-    "k1_front_idler_right",
-    "k1_joint_left",
-    "k1_joint_right",
-    "k1_motor_mount_stock_left",
-    "k1_motor_mount_stock_right",
-    "k1_rail_mount",
-    "k1_tensioner_left",
-    "k1_tensioner_right",
-    "k1_toolhead_left_clamp",
-    "k1_toolhead_right_clamp",
-    "k1_toolhead_spacer",
-    "k1_toolhead"
-]
+screenshots :list[str] = []
+
+if "screenshots" in sys.argv:
+    print("Screenshots: on")
+    screenshots :list[str] = [
+        "k1_front_idler_left",
+        "k1_front_idler_right",
+        "k1_joint_left",
+        "k1_joint_right",
+        "k1_motor_mount_stock_left",
+        "k1_motor_mount_stock_right",
+        "k1_rail_mount",
+        "k1_camera",
+        "k1_tensioner_left",
+        "k1_tensioner_right",
+        "k1_toolhead_left_clamp",
+        "k1_toolhead_right_clamp",
+        "k1_toolhead_spacer",
+        "k1_toolhead"
+    ]
 
 def export(file: str, object_name: str, export_types: list[str], screenshots :list[str]):
     """ This function exports object from FreeCAD file
@@ -117,7 +126,7 @@ def export(file: str, object_name: str, export_types: list[str], screenshots :li
                 # Gui.activeDocument().activeView().viewDefaultOrientation('Trimetric',0)
                 Gui.SendMsgToActiveView("ViewFit")
                 for width, height in [[500, 500]]:
-                    image_file = object_name + "_" + camera.replace("Camera", "").lower() + "_" + viewName.replace("View", "").lower() + ".jpg" # ".jpg"
+                    image_file = object_name + "_" + camera.replace("Camera", "").lower() + "_" + viewName.replace("View", "").lower() + ".png" # ".jpg"
                     view.saveImage(os.path.join(image_path, image_file), width, height, "Current") # "Transparent", "White"
 
     FreeCAD.Console.PrintMessage(f'Find object: "{object_name}"\n')

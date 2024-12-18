@@ -79,13 +79,9 @@ https://www.printables.com/model/1109686-creality-k1-xy-linear-rails-mod
 
 ## BOM, Assembly, etc.
 
-**! This is work in progress**
+### Front Idler Left
 
-## Front Idlers
-
-<!-- ![Front Idler](/images/parts/front_idlers.jpg) -->
-
-### Left
+![front_idler_left](/images/assembly/k1_front_idler_left_orthographic_axo.png)
 
 [front_idler_left.stl](/stl/k1_front_idler_left.stl)
 
@@ -97,7 +93,9 @@ https://www.printables.com/model/1109686-creality-k1-xy-linear-rails-mod
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 1     |
 | Heat insert                     | M3 5x5 mm | 5     |
 
-### Right
+### Front Idler Right
+
+![front_idler_right](/images/assembly/k1_front_idler_right_orthographic_axo.png)
 
 [front_idler_right.stl](/stl/k1_front_idler_right.stl)
 
@@ -109,8 +107,21 @@ https://www.printables.com/model/1109686-creality-k1-xy-linear-rails-mod
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 1     |
 | Heat insert                     | M3 5x5 mm | 5     |
 
-## Camera
+### Camera
 
-[camera_8mm_lower.stl](/stl/k1_camera.stl)
+![front_idler_right](/images/assembly/k1_camera_orthographic_axo.png)
 
+[k1_camera.stl](/stl/k1_camera.stl)
 
+**! This is work in progress**
+
+## Automation
+
+`export.sh`/`export.cmd` scripts xport all necessary objects to STl and STEP and optionally capture model screenshots.
+
+```bash
+# without updating screenshots:
+./export
+# export STL, STEP and generate model screenshots:
+./export screenshots
+```
