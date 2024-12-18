@@ -12,6 +12,7 @@ import Import
 import Mesh
 import Part
 import os, re
+import traceback
 
 step_timestamp_pattern = re.compile(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}")
 
@@ -33,6 +34,7 @@ os.makedirs(step_path, exist_ok = True)
 
 image_path: str = os.path.join(root_dir, os.path.join("images", "assembly"))
 print("IMG output path: " + image_path)
+os.makedirs(image_path, exist_ok = True)
 
 # The list of FreeCAD files to be exported,
 # by convention exported object must have the same name as project file.
@@ -115,7 +117,7 @@ def export(file: str, object_name: str, export_types: list[str], screenshots :li
                 # Gui.activeDocument().activeView().viewDefaultOrientation('Trimetric',0)
                 Gui.SendMsgToActiveView("ViewFit")
                 for width, height in [[500, 500]]:
-                    image_file = object_name + "_" + camera.replace("Camera", "").lower() + "_" + viewName.replace("View", "").lower() + ".png" # ".jpg"
+                    image_file = object_name + "_" + camera.replace("Camera", "").lower() + "_" + viewName.replace("View", "").lower() + ".jpg" # ".jpg"
                     view.saveImage(os.path.join(image_path, image_file), width, height, "Current") # "Transparent", "White"
 
     FreeCAD.Console.PrintMessage(f'Find object: "{object_name}"\n')
@@ -173,7 +175,8 @@ def export(file: str, object_name: str, export_types: list[str], screenshots :li
 for document in documents:
     try:
         export(document + ".FCStd", document, ["stl", "step"], screenshots)
-    except:
+    except Exception:
+        FreeCAD.Console.PrintMessage(traceback.format_exc())
         FreeCAD.Console.PrintMessage('╔═════════════╗\n')
         FreeCAD.Console.PrintMessage('║░░░░ERROR░░░░║\n')
         FreeCAD.Console.PrintMessage('╚═════════════╝\n\n')
