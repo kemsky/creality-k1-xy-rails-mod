@@ -126,7 +126,7 @@ https://www.printables.com/model/1109686-creality-k1-xy-linear-rails-mod
 
 ## Automation
 
-`export.sh`/`export.cmd` scripts xport all necessary objects to STl and STEP and optionally capture model screenshots.
+`export.sh`/`export.cmd` scripts export all necessary objects to STl and STEP and optionally capture model screenshots.
 
 ```bash
 # without updating screenshots:
