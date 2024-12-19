@@ -166,6 +166,41 @@ You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low P
 | Heat insert                     | M3 4.5x5 mm | 1     |
 | Heat insert                     | M3 5x7 mm   | 1     |
 
+### Tensioner left
+
+<details>
+    <summary>Preview</summary>
+    <img title="k1_tensioner_left.stl" alt="k1_tensioner_left.stl" src="images/assembly/k1_tensioner_left_orthographic_axo.png">
+</details>
+
+[k1_tensioner_left.stl](/stl/k1_tensioner_left.stl)
+
+| Item                            | Type        | Count |
+|---------------------------------|-------------|-------|
+| DIN 912 Socket Head Cap Screw   | M3 45 mm    | 1     |
+| DIN 912 Socket Head Cap Screw   | M3 16 mm    | 2     |
+| DIN 912 Socket Head Cap Screw   | M4 20 mm    | 1     |
+| POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 1     |
+| Heat insert                     | M3 3x4.5 mm | 2     |
+
+### Tensioner right
+
+<details>
+    <summary>Preview</summary>
+    <img title="k1_tensioner_right.stl" alt="k1_tensioner_right.stl" src="images/assembly/k1_tensioner_right_orthographic_axo.png">
+</details>
+
+[k1_tensioner_right.stl](/stl/k1_tensioner_right.stl)
+
+| Item                            | Type        | Count |
+|---------------------------------|-------------|-------|
+| DIN 912 Socket Head Cap Screw   | M3 45 mm    | 1     |
+| DIN 912 Socket Head Cap Screw   | M3 16 mm    | 2     |
+| DIN 912 Socket Head Cap Screw   | M4 20 mm    | 1     |
+| POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 1     |
+| Heat insert                     | M3 3x4.5 mm | 2     |
+
+
 
 **! This is work in progress**
 
