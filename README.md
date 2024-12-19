@@ -316,6 +316,16 @@ First, make two holes on the left and on the right, tap M3 threads, mount MGN9 r
 | DIN 912 Socket Head Cap Screw   | M2 10 mm    | 1     |
 | Shaft                           | 2x25 mm     | 1     |
 
+### Toolhead fan spacer
+
+<details>
+    <summary>Preview</summary>
+    <img title="k1_toolhead_spacer.stl" alt="k1_toolhead_spacer.stl" src="images/assembly/k1_toolhead_spacer_orthographic_axo.png">
+</details>
+
+Regular hotend - [k1_toolhead_spacer.stl](/stl/k1_toolhead_spacer.stl)
+
+Unicorn hotend - [k1_toolhead_spacer_unicorn.stl](/stl/k1_toolhead_spacer_unicorn.stl)
 
 ### Toolhead
 
@@ -326,7 +336,15 @@ First, make two holes on the left and on the right, tap M3 threads, mount MGN9 r
 
 [k1_toolhead.stl](/stl/k1_toolhead.stl)
 
-**! This is work in progress**
+| Item                            | Type        | Count |
+|---------------------------------|-------------|-------|
+| Flat Thin Wafer Head Screw      | M3 6 mm     | 3     |
+| DIN 912 Socket Head Cap Screw   | M2 12 mm    | 1     |
+| Heat insert                     | M3 4.5x3 mm | 6     |
+| Heat insert                     | M3 5x7 mm   | 1     |
+| Heat insert                     | M3 5x4 mm   | 4     |
+| Heat insert                     | M2 3.5x3 mm | 4     |
+
 
 ## Automation
 
