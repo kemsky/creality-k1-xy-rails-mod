@@ -175,7 +175,7 @@ You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low P
     <img title="k1_rail_mount.stl" alt="k1_rail_mount.stl" src="images/assembly/k1_rail_mount_orthographic_axo.png">
 </details>
 
-[k1_rail_mount.stl](/stl/k1_rail_mount.stl)
+[k1_rail_mount.stl](/stl/k1_rail_mount.stl) x2
 
 | Item                            | Type      | Count |
 |---------------------------------|-----------|-------|
@@ -183,13 +183,14 @@ You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low P
 | DIN 912 Socket Head Cap Screw   | M3 8 mm   | 2     |
 | Heat insert                     | M3 5x5 mm | 2     |
 
-SHCS M3 16 mm is optional because you'll have to drill and tap M3 thread in the top frame.
-Y rails have to be mounted to the top frame if you want to reach max acceleration on Y axis.
-Instead of printed mount you can buy metal plate or a set of plates to have ~8.5 mm thickness, dimensions  ~8.5x20x220 mm . 
+Mounting Y rails to the top frame is important if you want less vibrations.
+Default mount option is printed mount. You'll have to drill and tap M3 thread in the top frame.
+
+Instead of printed mount you can buy metal plate or a set of plates to get ~8.5 mm thickness.
 
 ### Y axis
 
-See step files for exact configuration and dimensions.
+See [cad_rail_mgn12.FCStd](/src/cad_rail_mgn12.FCStd) for exact configuration and dimensions.
 
 | Item                          | Type   | Count |
 |-------------------------------|--------|-------|
@@ -197,7 +198,7 @@ See step files for exact configuration and dimensions.
 
 ### X axis
 
-See step files for exact configuration and dimensions.
+See [cad_x_axis.FCStd](/src/cad_x_axis.FCStd) for exact configuration and dimensions.
 
 Use rail as drilling template, first make mark using 4 mm drill bit, then drill hole using 2.5 mm drill bit, then tap M3 thread.
 
