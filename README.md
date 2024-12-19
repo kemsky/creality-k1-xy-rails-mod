@@ -79,10 +79,10 @@ https://www.printables.com/model/1109686-creality-k1-xy-linear-rails-mod
 
 ## BOM, Assembly, etc.
 
-### Front idler left
-
 ! `Flat Thin Wafer Head Screw` - M3 screws with flat head that has 1 mm thickness. 
 You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low Profile Head Screw".
+
+### Front idler left
 
 
 ### Camera
