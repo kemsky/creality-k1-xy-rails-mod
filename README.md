@@ -287,6 +287,44 @@ Use rail as drilling template, first make mark using 4 mm drill bit, then drill 
 | Heat insert                     | M3 5x5 mm | 6     |
 
 
+### Toolhead clamp left
+
+<details>
+    <summary>Preview</summary>
+    <img title="k1_toolhead_left_clamp.stl" alt="k1_toolhead_left_clamp.stl" src="images/assembly/k1_toolhead_left_clamp_orthographic_axo.png">
+</details>
+
+[k1_toolhead_left_clamp.stl](/stl/k1_toolhead_left_clamp.stl)
+
+| Item                            | Type        | Count |
+|---------------------------------|-------------|-------|
+| DIN 912 Socket Head Cap Screw   | M2 10 mm    | 1     |
+| Shaft                           | 2x25 mm     | 1     |
+
+### Toolhead clamp right
+
+<details>
+    <summary>Preview</summary>
+    <img title="k1_toolhead_right_clamp.stl" alt="k1_toolhead_right_clamp.stl" src="images/assembly/k1_toolhead_right_clamp_orthographic_axo.png">
+</details>
+
+[k1_toolhead_right_clamp.stl](/stl/k1_toolhead_right_clamp.stl)
+
+| Item                            | Type        | Count |
+|---------------------------------|-------------|-------|
+| DIN 912 Socket Head Cap Screw   | M2 10 mm    | 1     |
+| Shaft                           | 2x25 mm     | 1     |
+
+
+### Toolhead
+
+<details>
+    <summary>Preview</summary>
+    <img title="k1_toolhead.stl" alt="k1_toolhead.stl" src="images/assembly/k1_toolhead_orthographic_axo.png">
+</details>
+
+[k1_toolhead.stl](/stl/k1_toolhead.stl)
+
 **! This is work in progress**
 
 ## Automation
