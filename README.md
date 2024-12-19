@@ -143,6 +143,7 @@ You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low P
 | DIN 912 Socket Head Cap Screw   | M3 12 mm    | 3     |
 | DIN 912 Socket Head Cap Screw   | M3 25 mm    | 1     |
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 2     |
+| MGN12H block                    |             | 2     |
 | Heat insert                     | M3 4.5x5 mm | 1     |
 | Heat insert                     | M3 5x7 mm   | 1     |
 
@@ -163,6 +164,7 @@ You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low P
 | DIN 912 Socket Head Cap Screw   | M3 12 mm    | 2     |
 | DIN 912 Socket Head Cap Screw   | M3 25 mm    | 1     |
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 2     |
+| MGN12H block                    |             | 2     |
 | Heat insert                     | M3 4.5x5 mm | 1     |
 | Heat insert                     | M3 5x7 mm   | 1     |
 
@@ -184,6 +186,26 @@ You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low P
 SHCS M3 16 mm is optional because you'll have to drill and tap M3 thread in the top frame.
 Y rails have to be mounted to the top frame if you want to reach max acceleration on Y axis.
 Instead of printed mount you can buy metal plate or a set of plates to have ~8.5 mm thickness, dimensions  ~8.5x20x220 mm . 
+
+### Y axis
+
+See step files for exact configuration and dimensions.
+
+| Item                          | Type   | Count |
+|-------------------------------|--------|-------|
+| MGN12 liner rail              | 310 mm | 2     |
+
+### X axis
+
+See step files for exact configuration and dimensions.
+
+Use rail as drilling template, first make mark using 4 mm drill bit, then drill hole using 2.5 mm drill bit, then tap M3 thread.
+
+| Item                          | Type           | Count |
+|-------------------------------|----------------|-------|
+| Aluminium square pipe         | 15x15x2 331 mm | 1     |
+| DIN 912 Socket Head Cap Screw | M3 6 mm        | 7-14  |
+| MGN9 liner rail               | 331 mm         | 1     |
 
 ### Tensioner left
 
