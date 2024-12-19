@@ -166,6 +166,25 @@ You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low P
 | Heat insert                     | M3 4.5x5 mm | 1     |
 | Heat insert                     | M3 5x7 mm   | 1     |
 
+### Y rail mounts
+
+<details>
+    <summary>Preview</summary>
+    <img title="k1_rail_mount.stl" alt="k1_rail_mount.stl" src="images/assembly/k1_rail_mount_orthographic_axo.png">
+</details>
+
+[k1_rail_mount.stl](/stl/k1_rail_mount.stl)
+
+| Item                            | Type      | Count |
+|---------------------------------|-----------|-------|
+| DIN 912 Socket Head Cap Screw   | M3 16 mm  | 1     |
+| DIN 912 Socket Head Cap Screw   | M3 8 mm   | 2     |
+| Heat insert                     | M3 5x5 mm | 2     |
+
+SHCS M3 16 mm is optional because you'll have to drill and tap M3 thread in the top frame.
+Y rails have to be mounted to the top frame if you want to reach max acceleration on Y axis.
+Instead of printed mount you can buy metal plate or a set of plates to have ~8.5 mm thickness, dimensions  ~8.5x20x220 mm . 
+
 ### Tensioner left
 
 <details>
