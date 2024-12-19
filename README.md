@@ -200,7 +200,7 @@ See [cad_rail_mgn12.FCStd](/src/cad_rail_mgn12.FCStd) for exact configuration an
 
 See [cad_x_axis.FCStd](/src/cad_x_axis.FCStd) for exact configuration and dimensions.
 
-Use rail as drilling template, first make mark using 4 mm drill bit, then drill hole using 2.5 mm drill bit, then tap M3 thread.
+First, make two holes on the left and on the right, tap M3 threads, mount MGN9 rail, align it carefully and tighten screws. Use rail as drilling template, first make mark using 4 mm drill bit, then drill remaining holes using 2.5 mm drill bit, then tap M3 threads.
 
 | Item                          | Type           | Count |
 |-------------------------------|----------------|-------|
