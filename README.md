@@ -79,7 +79,20 @@ https://www.printables.com/model/1109686-creality-k1-xy-linear-rails-mod
 
 ## BOM, Assembly, etc.
 
-### Front Idler Left
+### Front idler left
+
+! `Flat Thin Wafer Head Screw` - M3 screws with flat head that has 1 mm thickness. 
+You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low Profile Head Screw".
+
+
+### Camera
+
+<details>
+    <summary>Preview</summary>
+    <img title="k1_camera.stl" alt="k1_camera.stl" src="images/assembly/k1_camera_orthographic_axo.png">
+</details>
+
+[k1_camera.stl](/stl/k1_camera.stl)
 
 <details>
     <summary>Preview</summary>
@@ -96,7 +109,7 @@ https://www.printables.com/model/1109686-creality-k1-xy-linear-rails-mod
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 1     |
 | Heat insert                     | M3 5x5 mm | 5     |
 
-### Front Idler Right
+### Front idler right
 
 <details>
     <summary>Preview</summary>
@@ -113,14 +126,46 @@ https://www.printables.com/model/1109686-creality-k1-xy-linear-rails-mod
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 1     |
 | Heat insert                     | M3 5x5 mm | 5     |
 
-### Camera
+### Joint left
 
 <details>
     <summary>Preview</summary>
-    <img title="k1_camera.stl" alt="k1_camera.stl" src="images/assembly/k1_camera_orthographic_axo.png">
+    <img title="k1_joint_left.stl" alt="k1_joint_left.stl" src="images/assembly/k1_joint_left_orthographic_axo.png">
 </details>
 
-[k1_camera.stl](/stl/k1_camera.stl)
+[k1_joint_left.stl](/stl/k1_joint_left.stl)
+
+| Item                            | Type        | Count |
+|---------------------------------|-------------|-------|
+| DIN 912  Flat Head Cap Screw    | M4 30 mm    | 2     |
+| DIN 7991 Flat Head Cap Screw    | M3 25 mm    | 1     |
+| Flat Thin Wafer Head Screw      | M3 6 mm     | 1     |
+| DIN 912 Socket Head Cap Screw   | M3 12 mm    | 3     |
+| DIN 912 Socket Head Cap Screw   | M3 25 mm    | 1     |
+| POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 2     |
+| Heat insert                     | M3 4.5x5 mm | 1     |
+| Heat insert                     | M3 5x7 mm   | 1     |
+
+### Joint right
+
+<details>
+    <summary>Preview</summary>
+    <img title="k1_joint_right.stl" alt="k1_joint_right.stl" src="images/assembly/k1_joint_right_orthographic_axo.png">
+</details>
+
+[k1_joint_right.stl](/stl/k1_joint_right.stl)
+
+| Item                            | Type        | Count |
+|---------------------------------|-------------|-------|
+| DIN 912  Flat Head Cap Screw    | M4 30 mm    | 2     |
+| DIN 7991 Flat Head Cap Screw    | M3 25 mm    | 1     |
+| Flat Thin Wafer Head Screw      | M3 6 mm     | 2     |
+| DIN 912 Socket Head Cap Screw   | M3 12 mm    | 2     |
+| DIN 912 Socket Head Cap Screw   | M3 25 mm    | 1     |
+| POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 2     |
+| Heat insert                     | M3 4.5x5 mm | 1     |
+| Heat insert                     | M3 5x7 mm   | 1     |
+
 
 **! This is work in progress**
 
