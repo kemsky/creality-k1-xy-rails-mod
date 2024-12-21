@@ -222,6 +222,7 @@ First, make two holes on the left and on the right, tap M3 threads, mount MGN9 r
 | DIN 912 Socket Head Cap Screw   | M3 45 mm    | 1     |
 | DIN 912 Socket Head Cap Screw   | M3 16 mm    | 2     |
 | DIN 912 Socket Head Cap Screw   | M4 20 mm    | 1     |
+| Washer/Gasket                   | M3          | 2     |
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 1     |
 | Heat insert                     | M3 3x4.5 mm | 2     |
 
@@ -239,6 +240,7 @@ First, make two holes on the left and on the right, tap M3 threads, mount MGN9 r
 | DIN 912 Socket Head Cap Screw   | M3 45 mm    | 1     |
 | DIN 912 Socket Head Cap Screw   | M3 16 mm    | 2     |
 | DIN 912 Socket Head Cap Screw   | M4 20 mm    | 1     |
+| Washer/Gasket                   | M3          | 2     |
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 1     |
 | Heat insert                     | M3 3x4.5 mm | 2     |
 
