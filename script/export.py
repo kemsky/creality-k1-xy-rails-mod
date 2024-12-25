@@ -94,6 +94,8 @@ if "screenshots" in sys.argv:
         "k1_toolhead_spacer",
         "k1_toolhead"
     ]
+else:
+    print("Screenshots: off")
 
 def export(file: str, object_name: str, export_types: list[str], screenshots :list[str]):
     """ This function exports object from FreeCAD file
