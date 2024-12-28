@@ -244,14 +244,15 @@ First, make two holes on the left and on the right, tap M3 threads, mount MGN9 r
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 1     |
 | Heat insert                     | M3 3x4.5 mm | 2     |
 
-### Motor mount left (stock motors)
+### Motor mount left
 
 <details>
     <summary>Preview</summary>
     <img title="k1_motor_mount_stock_left.stl" alt="k1_motor_mount_stock_left.stl" src="images/assembly/k1_motor_mount_stock_left_orthographic_axo.png">
 </details>
 
-[k1_motor_mount_stock_left.stl](/stl/k1_motor_mount_stock_left.stl)
+- For stock motors - [k1_motor_mount_stock_left.stl](/stl/k1_motor_mount_stock_left.stl)
+- For non-stock motors - [k1_motor_mount_left.stl](/stl/k1_motor_mount_left.stl)
 
 | Item                            | Type      | Count |
 |---------------------------------|-----------|-------|
@@ -267,14 +268,15 @@ First, make two holes on the left and on the right, tap M3 threads, mount MGN9 r
 | Heat insert                     | M3 5x5 mm | 6     |
 
 
-### Motor mount right (stock motors)
+### Motor mount right
 
 <details>
     <summary>Preview</summary>
     <img title="k1_motor_mount_stock_right.stl" alt="k1_motor_mount_stock_right.stl" src="images/assembly/k1_motor_mount_stock_right_orthographic_axo.png">
 </details>
 
-[k1_motor_mount_stock_right.stl](/stl/k1_motor_mount_stock_right.stl)
+- For stock motors - [k1_motor_mount_stock_right.stl](/stl/k1_motor_mount_stock_right.stl)
+- For non-stock motors - [k1_motor_mount_right.stl](/stl/k1_motor_mount_right.stl)
 
 | Item                            | Type      | Count |
 |---------------------------------|-----------|-------|
