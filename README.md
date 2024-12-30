@@ -52,6 +52,8 @@ https://www.printables.com/model/1109686-creality-k1-xy-linear-rails-mod
 
 https://www.thingiverse.com/thing:6893994
 
+https://makerworld.com/en/models/931135
+
 ## Photos
 
 <details>
