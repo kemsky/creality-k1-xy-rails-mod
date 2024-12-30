@@ -50,6 +50,8 @@ Partially this work is based on [creality-k1-max-xy-rails-mod](https://github.co
 
 https://www.printables.com/model/1109686-creality-k1-xy-linear-rails-mod
 
+https://www.thingiverse.com/thing:6893994
+
 ## Photos
 
 <details>
