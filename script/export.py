@@ -45,6 +45,7 @@ os.makedirs(image_path, exist_ok = True)
 documents :list[str] = [
     "tool_motor_pad_cut",
     "tool_support_test",
+    "k1_z_carriage_oldham",
     "k1_cable_cover_left",
     "k1_cable_cover_right",
     "k1_cable_cover_vertical_bottom",
@@ -77,6 +78,7 @@ screenshots :list[str] = []
 if "screenshots" in sys.argv:
     print("Screenshots: on")
     screenshots :list[str] = [
+        "k1_z_carriage_oldham",
         "k1_front_idler_left",
         "k1_front_idler_right",
         "k1_joint_left",
