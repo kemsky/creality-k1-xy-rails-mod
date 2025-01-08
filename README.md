@@ -86,22 +86,23 @@ https://makerworld.com/en/models/931135
 ! `Flat Thin Wafer Head Screw` - M3 screws with flat head that has 1 mm thickness. 
 You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low Profile Head Screw".
 
-### Front idler left
-
-
 ### Camera
 
 <details>
     <summary>Preview</summary>
     <img title="k1_camera.stl" alt="k1_camera.stl" src="images/assembly/k1_camera_orthographic_axo.png">
 </details>
+<br>
 
 [k1_camera.stl](/stl/k1_camera.stl)
+
+### Front idler left
 
 <details>
     <summary>Preview</summary>
     <img title="front_idler_left.stl" alt="front_idler_left.stl" src="images/assembly/k1_front_idler_left_orthographic_axo.png">
 </details>
+<br>
 
 [front_idler_left.stl](/stl/k1_front_idler_left.stl)
 
@@ -119,6 +120,7 @@ You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low P
     <summary>Preview</summary>
     <img title="front_idler_right.stl" alt="front_idler_right.stl" src="images/assembly/k1_front_idler_right_orthographic_axo.png">
 </details>
+<br>
 
 [front_idler_right.stl](/stl/k1_front_idler_right.stl)
 
@@ -136,6 +138,7 @@ You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low P
     <summary>Preview</summary>
     <img title="k1_joint_left.stl" alt="k1_joint_left.stl" src="images/assembly/k1_joint_left_orthographic_axo.png">
 </details>
+<br>
 
 [k1_joint_left.stl](/stl/k1_joint_left.stl)
 
@@ -157,6 +160,7 @@ You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low P
     <summary>Preview</summary>
     <img title="k1_joint_right.stl" alt="k1_joint_right.stl" src="images/assembly/k1_joint_right_orthographic_axo.png">
 </details>
+<br>
 
 [k1_joint_right.stl](/stl/k1_joint_right.stl)
 
@@ -178,6 +182,7 @@ You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low P
     <summary>Preview</summary>
     <img title="k1_rail_mount.stl" alt="k1_rail_mount.stl" src="images/assembly/k1_rail_mount_orthographic_axo.png">
 </details>
+<br>
 
 [k1_rail_mount.stl](/stl/k1_rail_mount.stl) x2
 
@@ -218,6 +223,7 @@ First, make two holes on the left and on the right, tap M3 threads, mount MGN9 r
     <summary>Preview</summary>
     <img title="k1_tensioner_left.stl" alt="k1_tensioner_left.stl" src="images/assembly/k1_tensioner_left_orthographic_axo.png">
 </details>
+<br>
 
 [k1_tensioner_left.stl](/stl/k1_tensioner_left.stl)
 
@@ -236,6 +242,7 @@ First, make two holes on the left and on the right, tap M3 threads, mount MGN9 r
     <summary>Preview</summary>
     <img title="k1_tensioner_right.stl" alt="k1_tensioner_right.stl" src="images/assembly/k1_tensioner_right_orthographic_axo.png">
 </details>
+<br>
 
 [k1_tensioner_right.stl](/stl/k1_tensioner_right.stl)
 
@@ -254,6 +261,7 @@ First, make two holes on the left and on the right, tap M3 threads, mount MGN9 r
     <summary>Preview</summary>
     <img title="k1_motor_mount_stock_left.stl" alt="k1_motor_mount_stock_left.stl" src="images/assembly/k1_motor_mount_stock_left_orthographic_axo.png">
 </details>
+<br>
 
 - For stock motors - [k1_motor_mount_stock_left.stl](/stl/k1_motor_mount_stock_left.stl)
 - For non-stock motors - [k1_motor_mount_left.stl](/stl/k1_motor_mount_left.stl)
@@ -278,6 +286,7 @@ First, make two holes on the left and on the right, tap M3 threads, mount MGN9 r
     <summary>Preview</summary>
     <img title="k1_motor_mount_stock_right.stl" alt="k1_motor_mount_stock_right.stl" src="images/assembly/k1_motor_mount_stock_right_orthographic_axo.png">
 </details>
+<br>
 
 - For stock motors - [k1_motor_mount_stock_right.stl](/stl/k1_motor_mount_stock_right.stl)
 - For non-stock motors - [k1_motor_mount_right.stl](/stl/k1_motor_mount_right.stl)
@@ -302,6 +311,7 @@ First, make two holes on the left and on the right, tap M3 threads, mount MGN9 r
     <summary>Preview</summary>
     <img title="k1_toolhead_left_clamp.stl" alt="k1_toolhead_left_clamp.stl" src="images/assembly/k1_toolhead_left_clamp_orthographic_axo.png">
 </details>
+<br>
 
 [k1_toolhead_left_clamp.stl](/stl/k1_toolhead_left_clamp.stl)
 
@@ -316,6 +326,7 @@ First, make two holes on the left and on the right, tap M3 threads, mount MGN9 r
     <summary>Preview</summary>
     <img title="k1_toolhead_right_clamp.stl" alt="k1_toolhead_right_clamp.stl" src="images/assembly/k1_toolhead_right_clamp_orthographic_axo.png">
 </details>
+<br>
 
 [k1_toolhead_right_clamp.stl](/stl/k1_toolhead_right_clamp.stl)
 
@@ -330,6 +341,7 @@ First, make two holes on the left and on the right, tap M3 threads, mount MGN9 r
     <summary>Preview</summary>
     <img title="k1_toolhead_spacer.stl" alt="k1_toolhead_spacer.stl" src="images/assembly/k1_toolhead_spacer_orthographic_axo.png">
 </details>
+<br>
 
 Regular hotend - [k1_toolhead_spacer.stl](/stl/k1_toolhead_spacer.stl)
 
@@ -341,6 +353,7 @@ Unicorn hotend - [k1_toolhead_spacer_unicorn.stl](/stl/k1_toolhead_spacer_unicor
     <summary>Preview</summary>
     <img title="k1_toolhead.stl" alt="k1_toolhead.stl" src="images/assembly/k1_toolhead_orthographic_axo.png">
 </details>
+<br>
 
 [k1_toolhead.stl](/stl/k1_toolhead.stl)
 
@@ -354,6 +367,32 @@ Unicorn hotend - [k1_toolhead_spacer_unicorn.stl](/stl/k1_toolhead_spacer_unicor
 | Heat insert                     | M3 5x4 mm   | 4     |
 | Heat insert                     | M2 3.5x3 mm | 4     |
 
+
+## Bonus
+
+### Cable covers
+
+<details>
+    <summary>Preview</summary>
+    <img title="cable covers" alt="cable covers" src="images/assembled/cable_covers.jpg">
+</details>
+<br>
+
+Horizontal - [k1_cable_cover_horizontal.stl](/stl/k1_cable_cover_horizontal.stl)
+
+Vertical top - [k1_cable_cover_vertical_top.stl](/stl/k1_cable_cover_vertical_top.stl)
+
+Vertical bottom - [k1_cable_cover_vertical_bottom.stl](/stl/k1_cable_cover_vertical_bottom.stl)
+
+### Z-Carriage for T8 Oldham Coupler
+
+<details>
+    <summary>Preview</summary>
+    <img title="k1_z_carriage_oldham.stl" alt="k1_z_carriage_oldham.stl" src="images/assembly/k1_z_carriage_oldham_orthographic_axo.png">
+</details>
+<br>
+
+[k1_z_carriage_oldham.stl](/stl/k1_z_carriage_oldham.stl)
 
 ## Automation
 
