@@ -2,7 +2,7 @@
 
 ## Description
 
-<img title="CAD" alt="CAD" src="images/assembled/cad_assembly.png">
+<img title="CAD" alt="CAD" src="images/assembled/cad_assembly.jpg">
 
 This mod fixes `K1` issues namely excessive ringing/echo, unstable print quality, frequent maintenance, also it makes printer quiet.
 
@@ -374,7 +374,7 @@ Unicorn hotend - [k1_toolhead_spacer_unicorn.stl](/stl/k1_toolhead_spacer_unicor
 
 <details>
     <summary>Preview</summary>
-    <img title="k1_toolhead_cover.stl" alt="k1_toolhead_cover.stl" src="images/assembly/k1_tool">
+    <img title="k1_toolhead_cover.stl" alt="k1_toolhead_cover.stl" src="images/assembly/k1_toolhead_cover_orthographic_axo.png">
 </details>
 <br>
 
@@ -398,7 +398,7 @@ Vertical bottom - [k1_cable_cover_vertical_bottom.stl](/stl/k1_cable_cover_verti
 
 <details>
     <summary>Preview</summary>
-    <img title="k1_z_carriage_oldham.stl" alt="k1_z_carriage_oldham.stl" src="images/assembly/k1_z_carriage_oldham_orthographic_axo.png">
+    <img title="k1_z_carriage_oldham.stl" alt="k1_z_carriage_oldham.stl" src="images/assembled/z-carriage.jpg">
 </details>
 <br>
 
