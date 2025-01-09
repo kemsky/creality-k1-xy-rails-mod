@@ -78,6 +78,7 @@ if "screenshots" in sys.argv:
     print("Screenshots: on")
     screenshots :list[str] = [
         "k1_z_carriage_oldham",
+        "k1_toolhead_cover",
         "k1_front_idler_left",
         "k1_front_idler_right",
         "k1_joint_left",

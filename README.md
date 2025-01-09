@@ -20,7 +20,7 @@ You have to remove stock motor pulleys. You can use a bearing puller to do that 
 
 I used 20T motor pulleys for 15 mm belt (`rotation_distance` needs to be adjusted to `40` and `driver_SGTHRS` must be tuned `printer.cfg`).
 
-You can install non-stock motors e.g. `Leadshine 42cm06 1.8` or `LDO-42STH48-1684MAC 0.9` (requires `full_steps_per_rotation: 400`, loud, limited acceleration but potentially better print quality).
+You can install non-stock motors e.g. `Leadshine 42cm06 1.8` (low VFA, need custom wiring, expensive) or `LDO-42STH48-1684MAC 0.9` (requires `full_steps_per_rotation: 400`, loud, limited acceleration, low VFA).
 
 This mod uses double diaphragm couplers and `MF95ZZ` bearings.
 
@@ -369,6 +369,16 @@ Unicorn hotend - [k1_toolhead_spacer_unicorn.stl](/stl/k1_toolhead_spacer_unicor
 
 
 ## Bonus
+
+### Toolhead cover
+
+<details>
+    <summary>Preview</summary>
+    <img title="k1_toolhead_cover.stl" alt="k1_toolhead_cover.stl" src="images/assembly/k1_tool">
+</details>
+<br>
+
+[k1_toolhead_cover.stl](/stl/k1_toolhead_cover.stl)
 
 ### Cable covers
 
