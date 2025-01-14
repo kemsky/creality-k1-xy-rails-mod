@@ -368,7 +368,7 @@ Unicorn hotend - [k1_toolhead_spacer_unicorn.stl](/stl/k1_toolhead_spacer_unicor
 | Heat insert                     | M2 3.5x3 mm | 4     |
 
 
-## Bonus
+## Bonus Models
 
 ### Toolhead cover
 
@@ -403,6 +403,16 @@ Vertical bottom - [k1_cable_cover_vertical_bottom.stl](/stl/k1_cable_cover_verti
 <br>
 
 [k1_z_carriage_oldham.stl](/stl/k1_z_carriage_oldham.stl)
+
+### Side fan duct
+
+<details>
+    <summary>Preview</summary>
+    <img title="k1_side_fan_duct.stl" alt="k1_side_fan_duct.stl" src="images/assembly/k1_side_fan_duct_orthographic_axo.png">
+</details>
+<br>
+
+[k1_side_fan_duct.stl](/stl/k1_side_fan_duct.stl)
 
 ## Automation
 
