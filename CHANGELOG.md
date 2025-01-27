@@ -1,3 +1,7 @@
+### 2025-01-27
+
+- fixed BOM typo [#1](https://github.com/kemsky/creality-k1-xy-rails-mod/issues/1)
+
 ### 2025-01-14
 
 - added side fan duct

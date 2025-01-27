@@ -108,7 +108,7 @@ You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low P
 
 | Item                            | Type      | Count |
 |---------------------------------|-----------|-------|
-| DIN 912 Flat Head Cap Screw     | M4 30 mm  | 1     |
+| DIN 912 Socket Head Cap Screw   | M4 30 mm  | 1     |
 | DIN 7991 Flat Head Cap Screw    | M3 6 mm   | 4     |
 | DIN 912 Socket Head Cap Screw   | M3 16 mm  | 1     |
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 1     |
@@ -126,7 +126,7 @@ You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low P
 
 | Item                            | Type      | Count |
 |---------------------------------|-----------|-------|
-| DIN 912  Flat Head Cap Screw    | M4 30 mm  | 1     |
+| DIN 912 Socket Head Cap Screw   | M4 30 mm  | 1     |
 | DIN 7991 Flat Head Cap Screw    | M3 6 mm   | 4     |
 | DIN 912 Socket Head Cap Screw   | M3 16 mm  | 1     |
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 1     |
@@ -144,7 +144,7 @@ You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low P
 
 | Item                            | Type        | Count |
 |---------------------------------|-------------|-------|
-| DIN 912  Flat Head Cap Screw    | M4 30 mm    | 2     |
+| DIN 912 Socket Head Cap Screw   | M4 30 mm    | 2     |
 | DIN 7991 Flat Head Cap Screw    | M3 25 mm    | 1     |
 | Flat Thin Wafer Head Screw      | M3 6 mm     | 1     |
 | DIN 912 Socket Head Cap Screw   | M3 12 mm    | 3     |
@@ -166,7 +166,7 @@ You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low P
 
 | Item                            | Type        | Count |
 |---------------------------------|-------------|-------|
-| DIN 912  Flat Head Cap Screw    | M4 30 mm    | 2     |
+| DIN 912 Socket Head Cap Screw   | M4 30 mm    | 2     |
 | DIN 7991 Flat Head Cap Screw    | M3 25 mm    | 1     |
 | Flat Thin Wafer Head Screw      | M3 6 mm     | 2     |
 | DIN 912 Socket Head Cap Screw   | M3 12 mm    | 2     |
