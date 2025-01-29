@@ -1,3 +1,8 @@
+### 2025-01-29
+
+- added fan and pcb to toolhead assembly
+- updated toolhead
+
 ### 2025-01-27
 
 - fixed BOM typo [#1](https://github.com/kemsky/creality-k1-xy-rails-mod/issues/1)

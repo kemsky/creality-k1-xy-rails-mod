@@ -359,7 +359,8 @@ Unicorn hotend - [k1_toolhead_spacer_unicorn.stl](/stl/k1_toolhead_spacer_unicor
 
 | Item                            | Type        | Count |
 |---------------------------------|-------------|-------|
-| Flat Thin Wafer Head Screw      | M3 6 mm     | 7     |
+| Flat Thin Wafer Head Screw      | M3 6 mm     | 4     |
+| Flat Thin Wafer Head Screw      | M3 8 mm     | 3     |
 | DIN 912 Socket Head Cap Screw   | M2 12 mm    | 1     |
 | MGN9H block                     |             | 1     |
 | Heat insert                     | M3 4.5x3 mm | 6     |
