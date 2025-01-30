@@ -38,9 +38,9 @@ Recommended printing materials are PA-GF, PA-CF, ABS-GF, ABS-CF or anything else
 
 #### Options for maximum performance
 
-- Use light extruder - [KKm extruder](https://www.printables.com/model/906070-artis3d-kkm-extruder-remix)
-- Use light motor - 36STH17-0354AHG or LDO-36STH20-1004AHG
-- Use light mgn9 rails - hollow/milled rails from FYSETC (they are 6mm instead of 6.5mm, you have to print spacer)
+- Use light extruder - [KKm extruder](https://www.printables.com/model/906070-artis3d-kkm-extruder-remix) (probably I'll upload my own remix)
+- Use light extruder motor - 36STH17-0354AHG or LDO-36STH20-1004AHG
+- Use light mgn9 rails - hollow/milled rails from FYSETC (they have 6mm height instead of 6.5mm, you have to print spacer)
 
 ## License
 
