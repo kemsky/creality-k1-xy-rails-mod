@@ -1,3 +1,7 @@
+### 2025-02-05
+
+- added new toolhead cover
+
 ### 2025-01-29
 
 - added fan and pcb to toolhead assembly

@@ -387,6 +387,16 @@ Unicorn hotend - [k1_toolhead_spacer_unicorn.stl](/stl/k1_toolhead_spacer_unicor
 
 [k1_toolhead_cover.stl](/stl/k1_toolhead_cover.stl)
 
+### Compact toolhead cover
+
+<details>
+    <summary>Preview</summary>
+    <img title="k1_toolhead_cover_experimental.stl" alt="k1_toolhead_cover_experimental.stl" src="images/assembly/k1_toolhead_cover_experimental_orthographic_axo.png">
+</details>
+<br>
+
+[k1_toolhead_cover_experimental.stl](/stl/k1_toolhead_cover_experimental.stl)
+
 ### Cable covers
 
 <details>
