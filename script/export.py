@@ -43,6 +43,8 @@ os.makedirs(image_path, exist_ok = True)
 # The list of FreeCAD files to be exported,
 # by convention exported object must have the same name as project file.
 documents :list[str] = [
+    "tool_mgn5_spacer_experimental",
+    "tool_mgn5_bracket_experimental",
     "k1_toolhead_cover_experimental",
     "k1_toolhead_cover_experimental_spacer",
     "k1_rail_pad_fysetc",

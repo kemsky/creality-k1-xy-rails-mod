@@ -437,7 +437,7 @@ Vertical bottom - [k1_cable_cover_vertical_bottom.stl](/stl/k1_cable_cover_verti
 
 ```bash
 # without updating screenshots:
-./export
+./export.sh
 # export STL, STEP and generate model screenshots:
-./export screenshots
+./export.sh screenshots
 ```

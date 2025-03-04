@@ -1,3 +1,8 @@
+### 2025-03-05
+
+- updated new toolhead cover
+- experimental 2xmgn5 toolhead
+
 ### 2025-02-05
 
 - added new toolhead cover
