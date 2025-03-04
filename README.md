@@ -36,6 +36,8 @@ Y rails have max length of 314 mm (safe 310 mm), 300 mm between far left and far
 
 Recommended printing materials are PA-GF, PA-CF, ABS-GF, ABS-CF or anything else that is rigid and can sustain high temperatures. I don't recommend printing toolhead with pure ABS.
 
+Wall loops, top/bottom layers should be at least 5, for motor mounts I'd recommend 6-7.
+
 #### Options for maximum performance
 
 - Use light extruder - [KKm extruder](https://www.printables.com/model/906070-artis3d-kkm-extruder-remix) (probably I'll upload my own remix)
