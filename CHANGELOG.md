@@ -2,6 +2,7 @@
 
 - updated new toolhead cover
 - experimental 2xmgn5 toolhead
+- improved front idlers, joints
 
 ### 2025-02-05
 
