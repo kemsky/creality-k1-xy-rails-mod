@@ -1,3 +1,7 @@
+### 2025-03-25
+
+- updated new toolhead cover
+
 ### 2025-03-05
 
 - updated new toolhead cover
