@@ -1,6 +1,6 @@
 ### 2025-04-04
 
-- joints samllfixes
+- joints samll fixes
 
 ### 2025-03-25
 
