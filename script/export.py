@@ -60,8 +60,6 @@ documents :list[str] = [
     "k1_front_idler_right",
     "k1_joint_left",
     "k1_joint_right",
-    "k1_joint_left_teeth_experimental",
-    "k1_joint_right_teeth_experimental",
     "k1_motor_mount_left",
     "k1_motor_mount_right",
     "k1_motor_mount_stock_left",

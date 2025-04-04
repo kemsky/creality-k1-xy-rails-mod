@@ -2,6 +2,8 @@
 
 - joints samll fixes
 - remove experimental joints for teeth pulleys
+- added L, R marks on clamps and tensioners
+- updated assembly file
 
 ### 2025-03-25
 
