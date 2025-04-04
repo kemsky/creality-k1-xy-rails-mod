@@ -1,6 +1,7 @@
 ### 2025-04-04
 
 - joints samll fixes
+- remove experimental joints for teeth pulleys
 
 ### 2025-03-25
 
