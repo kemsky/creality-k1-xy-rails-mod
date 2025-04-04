@@ -1,3 +1,7 @@
+### 2025-04-04
+
+- joints samllfixes
+
 ### 2025-03-25
 
 - updated new toolhead cover
