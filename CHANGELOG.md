@@ -1,3 +1,7 @@
+### 2025-04-20
+
+- make toolhead compatible with extruder from Creality CFS kit
+
 ### 2025-04-04
 
 - joints samll fixes
