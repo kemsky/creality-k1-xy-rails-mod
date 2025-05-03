@@ -433,6 +433,18 @@ Vertical bottom - [k1_cable_cover_vertical_bottom.stl](/stl/k1_cable_cover_verti
 
 [k1_side_fan_duct.stl](/stl/k1_side_fan_duct.stl)
 
+### Cutter block
+
+Requires 2x25mm DIN 912 M3 screws.
+
+<details>
+    <summary>Preview</summary>
+    <img title="k1_cutter_block.stl" alt="k1_side_fan_duct.stl" src="images/assembly/k1_cutter_block_orthographic_axo.png">
+</details>
+<br>
+
+[k1_cutter_block.stl](/stl/k1_cutter_block.stl)
+
 ## Automation
 
 `export.sh`/`export.cmd` scripts export all necessary objects to STl and STEP and optionally capture model screenshots.
