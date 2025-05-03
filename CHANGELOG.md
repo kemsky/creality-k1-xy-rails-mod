@@ -1,3 +1,7 @@
+### 2025-05-03
+
+- prepare motor mounts and toolhead for cfs
+
 ### 2025-04-20
 
 - make toolhead compatible with extruder from Creality CFS kit
