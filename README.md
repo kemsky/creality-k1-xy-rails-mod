@@ -28,7 +28,7 @@ This mod uses double diaphragm couplers and `MF95ZZ` bearings.
 
 This mod uses two `MGN12` rails with `MGN12H` carriages for Y and one `MGN9` rail with `MGN9H` carriage for X axis.
 
-X rail has max length of 331 mm, 320 mm between far left and far right holes. X axis requires 15x15x2 mm aluminium tube (the same length as rail). It is important to use quality rails for X axis (with minimal backlash).
+X rail has max length of 331 mm, 300 mm between far left and far right holes. X axis requires 15x15x2 mm aluminium tube (the same length as rail). It is important to use quality rails for X axis (with minimal backlash).
 
 Y rails have max length of 314 mm (safe 310 mm), 300 mm between far left and far right holes. 
 
