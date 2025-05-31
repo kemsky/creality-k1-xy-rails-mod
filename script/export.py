@@ -44,6 +44,8 @@ os.makedirs(image_path, exist_ok = True)
 # by convention exported object must have the same name as project file.
 documents :list[str] = [
     "k1_cutter_block",
+    "k1_hopper",
+    "k1_hopper_fixed_block",
     "tool_mgn5_spacer_experimental",
     "tool_mgn5_bracket_experimental",
     "k1_toolhead_cover_experimental",
