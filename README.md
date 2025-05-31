@@ -34,7 +34,7 @@ Y rails have max length of 314 mm (safe 310 mm), 300 mm between far left and far
 
 #### Materials
 
-Recommended printing materials are PA-GF, PA-CF, ABS-GF, ABS-CF or anything else that is rigid and can sustain high temperatures. I don't recommend printing toolhead with pure ABS.
+Recommended printing materials are PA-GF, PA-CF, ABS-GF, ABS-CF or anything else that is rigid and can sustain high temperatures. I don't recommend printing toolhead with pure ABS. I'd recommend PA-GF or PA-CF, as screw joints tend to become loose in ABS. 
 
 Wall loops, top/bottom layers should be at least 5, for motor mounts I'd recommend 6-7.
 
@@ -153,7 +153,7 @@ You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low P
 | Item                            | Type        | Count |
 |---------------------------------|-------------|-------|
 | DIN 912 Socket Head Cap Screw   | M4 30 mm    | 2     |
-| DIN 7991 Flat Head Cap Screw    | M3 25 mm    | 1     |
+| DIN 7991 Flat Head Cap Screw    | M3 52 mm    | 1     |
 | Flat Thin Wafer Head Screw      | M3 6 mm     | 1     |
 | DIN 912 Socket Head Cap Screw   | M3 12 mm    | 3     |
 | DIN 912 Socket Head Cap Screw   | M3 25 mm    | 1     |
@@ -175,7 +175,7 @@ You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low P
 | Item                            | Type        | Count |
 |---------------------------------|-------------|-------|
 | DIN 912 Socket Head Cap Screw   | M4 30 mm    | 2     |
-| DIN 7991 Flat Head Cap Screw    | M3 25 mm    | 1     |
+| DIN 7991 Flat Head Cap Screw    | M3 52 mm    | 1     |
 | Flat Thin Wafer Head Screw      | M3 6 mm     | 2     |
 | DIN 912 Socket Head Cap Screw   | M3 12 mm    | 2     |
 | DIN 912 Socket Head Cap Screw   | M3 25 mm    | 1     |

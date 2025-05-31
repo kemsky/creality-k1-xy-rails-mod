@@ -1,6 +1,8 @@
 ### 2025-05-31
 
 - added initial version of hopper
+- modifled motor mounts to simplify bearings installation
+- changed joints to use 52mm screws to make it more rigid
 
 ### 2025-05-03
 
