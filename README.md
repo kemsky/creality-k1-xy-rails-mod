@@ -24,6 +24,14 @@ You can install non-stock motors e.g. `Leadshine 42cm06 1.8` (low VFA, need cust
 
 This mod uses double diaphragm couplers and `MF95ZZ` bearings.
 
+#### Belts tuning
+
+Preferred way is to use Spectroid android app (or any other program that can show sound frequency).
+
+Move toolhead to the middle, move X axis to have 150mm between motor mounts and XY joints.
+
+Pluck the shortest belt on each side, displayed frequency should be the same. Target frequency is 120-130Hz, if you go higher than 130Hz you risk to damage belts.
+
 #### Linear rails
 
 This mod uses two `MGN12` rails with `MGN12H` carriages for Y and one `MGN9` rail with `MGN9H` carriage for X axis.
