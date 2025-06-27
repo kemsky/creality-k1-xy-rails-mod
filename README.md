@@ -384,6 +384,76 @@ Unicorn hotend - [k1_toolhead_spacer_unicorn.stl](/stl/k1_toolhead_spacer_unicor
 | Heat insert                     | M3 5x4 mm   | 4     |
 | Heat insert                     | M2 3.5x3 mm | 4     |
 
+#### Toolhead Microprobe
+
+| Item                            | Type            | Count |
+|---------------------------------|-----------------|-------|
+| Heat insert                     | M2.5 3.5x4 mm   | 2     |
+
+
+You can install `BIQU MicroProbe` sensor which is much better than original load cell probe.
+
+[ **!** ] Pins on toolhead board ("touch" connector) do not match microprobe pins, you can not use premade JST 1.25 5pins cable, you'll have to make your own.
+
+<details>
+    <summary>Pins</summary>
+    <img title="microprobe" alt="microprobe" src="images/microprobe/microprobe.png">
+    <img title="toolhead_touch" alt="toolhead_touch" src="images/microprobe/toolhead_touch.png">
+</details>
+<br>
+
+
+```
+- touch GND            -> microprobe GND    (black)
+- touch 5v             -> microprobe 5v     (red)
+- touch nozzle_mcu:PA8 -> microprobe servo  (yellow)
+- touch GND            -> microprobe GND    (black)
+- touch nozzle_mcu:PA9 -> microprobe probe  (white)
+```
+
+1. Remove all `prtouch` sections from `printer.cfg`
+2. Edit `/usr/share/klipper/klippy/extras/custom_macro.py` and comment all prtouch usages
+3. Remove `/usr/share/klipper/klippy/extras/custom_macro.pyc` and reboot
+4. Add the following to `printer.cfg`:
+```
+[gcode_macro _PROBE_DOWN]
+gcode:
+    SET_PIN PIN=probe_enable VALUE=1
+
+[gcode_macro _PROBE_UP]
+gcode:
+    SET_PIN PIN=probe_enable VALUE=0
+
+[output_pin probe_enable]
+pin: nozzle_mcu:PA8
+value: 0
+
+[probe]
+pin: ^!nozzle_mcu:PA9
+deactivate_on_each_sample: False
+x_offset: 0
+y_offset: 20
+z_offset: 0  # do PROBE_CALIBRATE
+samples: 2
+samples_tolerance: 0.05
+samples_tolerance_retries: 3
+activate_gcode:
+    _PROBE_DOWN
+    G4 P500
+deactivate_gcode:
+    _PROBE_UP
+```
+5. Use `PROBE_CALIBRATE` macros to determine Z-Offset and save it.
+
+Depending on your hotend you may need a spacer.
+
+<details>
+    <summary>Microprobe spacer</summary>
+    <img title="k1_toolhead_microprobe_spacer.stl" alt="k1_toolhead_microprobe_spacer.stl" src="images/assembly/k1_toolhead_microprobe_spacer_orthographic_axo.png">
+</details>
+<br>
+
+[k1_toolhead_microprobe_spacer.stl](/stl/k1_toolhead_microprobe_spacer.stl)
 
 ## Bonus Models
 

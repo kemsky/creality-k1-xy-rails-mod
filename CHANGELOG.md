@@ -1,3 +1,7 @@
+### 2025-06-27
+
+- added BIQU Microprobe option
+
 ### 2025-05-31
 
 - added initial version of hopper
