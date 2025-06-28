@@ -46,6 +46,12 @@ Recommended printing materials are PA-GF, PA-CF, ABS-GF, ABS-CF or anything else
 
 Wall loops, top/bottom layers should be at least 5, for motor mounts I'd recommend 6-7.
 
+<details>
+    <summary>Printing orientation</summary>
+    <img title="printing_orientation.png" alt="printing_orientation.png" src="images/assembly/printing_orientation.png">
+</details>
+
+
 #### Options for maximum performance
 
 - Use light extruder - [KKm extruder](https://www.printables.com/model/906070-artis3d-kkm-extruder-remix) (probably I'll upload my own remix)
