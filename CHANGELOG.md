@@ -1,3 +1,9 @@
+### 2025-09-02
+
+- correct tensioners size
+- add microprobe fix
+
+
 ### 2025-06-28
 
 - added printing orientation

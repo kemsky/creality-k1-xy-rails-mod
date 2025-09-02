@@ -450,6 +450,7 @@ deactivate_gcode:
     _PROBE_UP
 ```
 5. Use `PROBE_CALIBRATE` macros to determine Z-Offset and save it.
+6. Sometimes you can get error `Communication Timeout during homing z`. Use `vi /usr/share/klipper/klippy/mcu.py` and increase `TRSYNC_TIMEOUT` from 0.025 up to 0.05. Remove file `/usr/share/klipper/klippy/mcu.pyc`, reboot.
 
 Depending on your hotend you may need a spacer.
 
