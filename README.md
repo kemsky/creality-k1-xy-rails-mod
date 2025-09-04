@@ -14,7 +14,7 @@ It should be compatible with regular `K1` (tested), `K1C` and `K1 SE` (not teste
 
 ### Belts, pulleys, motors
 
-This mode uses `POWGE` 7.7 mm belt and corresponding idler pulleys. You can use 6 mm belt with stock idlers if you add washers to compensate height differences (`POWGE` idlers have 10.4 mm height), also you can use `F604ZZ` flanged bearings (not tested).
+This mode uses `POWGE` 7.7 mm belt and corresponding idler pulleys. You can use 6 mm belt and stock idlers if you add washers to compensate height differences (`POWGE` idlers have 10.4 mm height). Also, you can use `F604ZZ` flanged bearings (4x12x4) and 2mm washers instead of `POWGE` pulleys.
 
 You have to remove stock motor pulleys. You can use a bearing puller to do that (some people use printed pullers e.g. [pulley puller](https://www.printables.com/model/515503-pulley-puller)). If pulleys sit too tight you can use dremel and make cuts to relax pulleys. you have to be careful to avoid damage to motor shafts
 
