@@ -1,5 +1,9 @@
 # Changelog
 
+## 2025-12-29
+
+- update microprobe docs
+
 ## 2025-09-02
 
 - correct tensioners size
