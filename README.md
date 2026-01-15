@@ -171,7 +171,7 @@ You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low P
 | DIN 912 Socket Head Cap Screw   | M3 12 mm    | 3     |
 | DIN 912 Socket Head Cap Screw   | M3 25 mm    | 1     |
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 2     |
-| MGN12H block                    |             | 2     |
+| MGN12H block                    |             | 1     |
 | Heat insert                     | M3 4.5x5 mm | 1     |
 | Heat insert                     | M3 5x7 mm   | 1     |
 
@@ -193,7 +193,7 @@ You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low P
 | DIN 912 Socket Head Cap Screw   | M3 12 mm    | 2     |
 | DIN 912 Socket Head Cap Screw   | M3 25 mm    | 1     |
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 2     |
-| MGN12H block                    |             | 2     |
+| MGN12H block                    |             | 1     |
 | Heat insert                     | M3 4.5x5 mm | 1     |
 | Heat insert                     | M3 5x7 mm   | 1     |
 

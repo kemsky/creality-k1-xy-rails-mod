@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-01-15
+
+- BOM fix
+
 ## 2025-12-29
 
 - update microprobe docs
