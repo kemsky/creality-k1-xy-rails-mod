@@ -255,7 +255,7 @@ First, make two holes on the left and on the right, tap M3 threads, mount MGN9 r
 | DIN 912 Socket Head Cap Screw   | M4 20 mm    | 1     |
 | Washer/Gasket                   | M3          | 2     |
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 1     |
-| Heat insert                     | M3 3x4.5 mm | 2     |
+| Heat insert                     | M3 4.5x3 mm | 2     |
 
 ### Tensioner right
 
@@ -274,7 +274,7 @@ First, make two holes on the left and on the right, tap M3 threads, mount MGN9 r
 | DIN 912 Socket Head Cap Screw   | M4 20 mm    | 1     |
 | Washer/Gasket                   | M3          | 2     |
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 1     |
-| Heat insert                     | M3 3x4.5 mm | 2     |
+| Heat insert                     | M3 4.5x3 mm | 2     |
 
 ### Motor mount left
 
@@ -300,7 +300,7 @@ First, make two holes on the left and on the right, tap M3 threads, mount MGN9 r
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 2     |
 | Heat insert                     | M3 5x5 mm | 6     |
 
-You'll need 1 M3x35 screw from stock gantry motor mounts.
+You'll need 1 M3x35 screw from stock gantry motor mounts and 1 M3 5x7 mm heat insert, alternatively you can use M4x35 SHCS screw.
 
 ### Motor mount right
 
@@ -326,7 +326,7 @@ You'll need 1 M3x35 screw from stock gantry motor mounts.
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 2     |
 | Heat insert                     | M3 5x5 mm | 6     |
 
-You'll need 1 M3x35 screw from stock gantry motor mounts.
+You'll need 1 M3x35 screw from stock gantry motor mounts and 1 M3 5x7 mm heat insert, alternatively you can use M4x35 SHCS screw.
 
 ### Toolhead clamp left
 
